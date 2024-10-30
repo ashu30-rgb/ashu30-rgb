@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and **Back
 ---
 
 ### 📈 GitHub Stats
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?ashu30-rgb&show_icons=true&theme=radical)
 
 ---
 
@@ -39,7 +39,7 @@ I'm currently working on:
 If you’d like to discuss potential collaborations, job opportunities, or simply share insights about the latest in web development, feel free to reach out!
 
 📧 **Email**: ashutosh728173@gmail.com  
-💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-profile)
+💼 **LinkedIn**: [Connect with me]([https://www.linkedin.com/in/your-profile](https://in.linkedin.com/in/ashutosh-web-dev))
 
 ---
 
