@@ -39,7 +39,7 @@ I'm currently working on:
 If you’d like to discuss potential collaborations, job opportunities, or simply share insights about the latest in web development, feel free to reach out!
 
 📧 **Email**: ashutosh728173@gmail.com  
-💼 **LinkedIn**: [Connect with me]([https://www.linkedin.com/in/your-profile](https://in.linkedin.com/in/ashutosh-web-dev))
+💼 **LinkedIn**: [Connect with me](https://in.linkedin.com/in/ashutosh-web-dev)
 
 ---
 
