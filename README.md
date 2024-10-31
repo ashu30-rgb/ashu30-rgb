@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and **Back
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashu30-rgb&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu30-rgb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu30-rgb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)\
 ![Profile Views](https://komarev.com/ghpvc/?username=ashu30-rgb&color=blue)
 
 
