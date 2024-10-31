@@ -20,19 +20,13 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and **Back
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu30-rgb&show_icons=true&theme=radical&count_private=true)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ashu30-rgb&color=blue)
 
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=ashu30-rgb
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashu30-rgb&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu30-rgb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=ashu30-rgb&color=blue)
 
 
 ---
