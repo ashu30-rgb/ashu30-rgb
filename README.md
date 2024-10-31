@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and **Back
 ---
 
 ### 📈 GitHub Stats
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu30-rgb&show_icons=true&theme=radical)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu30-rgb&show_icons=true&theme=radical&count_private=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashu30-rgb&color=blue)
 
