@@ -29,6 +29,14 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** and **Back
 
 ---
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=ashu30-rgb
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashu30-rgb&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu30-rgb&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ### 🌱 Current Focus
 I'm currently working on:
 - Building scalable and efficient full-stack applications.
